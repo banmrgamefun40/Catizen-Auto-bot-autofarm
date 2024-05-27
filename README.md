@@ -22,7 +22,7 @@
 
 **1. download**
 
-*[<img src="https://github.com/banmrgamefun40/Catizen-Auto-bot-autofarm/assets/169678864/b06d3b24-3866-4b78-877d-d8c9efb62e1c"/>]()*
+*[<img src="https://github.com/banmrgamefun40/Catizen-Auto-bot-autofarm/assets/169678864/b06d3b24-3866-4b78-877d-d8c9efb62e1c"/>](https://github.com/banmrgamefun40/Catizen-Auto-bot-autofarm/releases)*
 
 
 **2. open bot**
