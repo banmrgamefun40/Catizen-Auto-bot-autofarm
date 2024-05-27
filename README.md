@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Python-3-blue)
 ![](https://img.shields.io/github/forks/Z4nzu/hackingtool)
 ![](https://img.shields.io/badge/platform-%20%7C%20Windows%20%7C%20-blue)
-[1](https://github.com/banmrgamefun40/Catizen-Auto-bot-autofarm/assets/169678864/8bf7e6e3-3801-45d1-837b-ce86b026415a)
+![1](https://github.com/banmrgamefun40/Catizen-Auto-bot-autofarm/assets/169678864/d8cb1ec5-ecbb-493e-8708-7615cc63f899)
 
 ### Made on the Softpedia platform
 ***I was interested in catizen and wanted to make a program that farms coins automatically***
